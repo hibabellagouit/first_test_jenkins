@@ -111,14 +111,7 @@ Activation du webhook
 <img width="1366" height="728" alt="Add webhook - Google Chrome 14_12_2025 23_01_52" src="https://github.com/user-attachments/assets/05cb1087-917b-4969-95f5-4bd423bfcb68" />
 
 
-📸 Capture : webhook GitHub et recent deliveries
 
-8. Déclenchement automatique du pipeline
+<img width="1366" height="728" alt="Images - Docker Desktop 14_12_2025 23_16_35" src="https://github.com/user-attachments/assets/5f1cf838-ecdc-4243-9ab2-69d45dc529f7" />
 
-Modification du code du projet
 
-Commit et push vers GitHub
-
-Déclenchement automatique du pipeline Jenkins via webhook
-
-📸 Capture : nouveau build Jenkins déclenché automatiquement
